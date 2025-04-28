@@ -44,13 +44,7 @@ It features secure authentication, live chat functionality, and a modern, respon
 
 ---
 
-## 📸 Screenshots
-
-(Add screenshots showing login, chat screen, Firebase authentication if possible)
-
----
-
-## 🔥 Future Enhancements (Optional Ideas)
+## 🔥 Future Enhancements
 
 - Auto-scroll chat to the latest message on new input
 - Differentiate between sent and received messages (different alignments or colors)
